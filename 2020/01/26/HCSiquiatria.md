@@ -5,7 +5,7 @@ inspeccion: "2026-10-15"
 expediente: "MPF00462972"
 tipo: "otro"
 origen: "propio"
-intenta_probar: "Mi mama ya tomaba Lexotanil (Bromazepam) desde hace 20 años. Por lógica, si se compraban por PAMI tenian su receta"
+intenta_probar: "1. Mi mama ya tomaba Lexotanil (Bromazepam) desde hace como 20 años. Por lógica, si se compraban por PAMI tenian su receta. 2. Creo que no se debe hacer una evaluación siquiatrica (como hicieron en la guardia al poner esquizofrenia) cuando hay un cuadro clínico"
 comentario: "Historia Clinica que nunca solicito ni el Hospital ni nadie, pero contiene indicacion para el Lexotanil pero igualmente era algo histórico porque según decian en la farmacia ya no se solía utilizar esta droga"
 sha256: "aa04f44f141071a2f8e66c17d581ddcc5b52cc2477debb28fee678537b04711d"
 revision_ia: "gemini-3.8-flash-low (documento)"
@@ -34,7 +34,7 @@ Argerich 545 · Tel: 4611-1805 / 4637-2423
 - F. de Nac: 12/05/1943
 - Estado Civil: Casada
 - Domicilio: Mozart 610, Localidad: Cap Fed
-- Teléfono Fijo: 4682-7859 · Celular: 1524020854 (Nicolás)
+- Teléfono Fijo: [numero19] · Celular: 1524020854 (Nicolás)
 - Primera Entrevista: 26-06
 - Profesional Admisor: Dr. Bo[dudoso: rani]
 - Autorizado por: Por internet
