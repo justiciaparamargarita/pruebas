@@ -5,7 +5,7 @@ original_filename: "pinero.md"
 fuente: "https://gitlab.com/kosciuk/escritos/-/blob/master/pinero.md"
 version_git: "419c65c"
 version_impresa: "Versión impresa y presentada el 2020-03-26 11:45 h en el HOSPITAL PIÑERO (sello de recepción); identificada por comparación con las 8 versiones del archivo en git (419c65c). Imágenes: prueba-nota-1-3.jpg, prueba-nota-2-3.jpg, prueba-nota-3-3.jpg (misma carpeta)"
-intenta_probar: "Que concurri al Director para solucionar el reingreso o el traslado a la unidad anterior donde si era bien atendida. Yo mismo comente al director el tema del Lexotanil incluso antes de saber la operación armada por los médicos"
+intenta_probar: "Que concurri al Director para solucionar el reingreso o el traslado a la unidad anterior donde si era bien atendida."
 comentario: "Original de la nota entregada en la Direccion del Hospital Piñero antes de ser impresa"
 ---
 
