@@ -5,6 +5,12 @@ asunto: "Faltantes de HC : MPF00462972"
 origen_email: "fuentes/emails/fiscalias.gob.ar/faltantes-de-hc-mpf00462972.e0362.eml"
 comentario: "Hilo enviado a Rozas"
 intenta_probar: "1. Que Rozas siempre estuvo al tanto del faltante de fojas y de todo lo de enfermería y que alerto a todos para nadie lo mencione. 2. En caso de desconocerlo, al habersele avisado, debería haber hecho algo? Hizo algo? No. 3. Tambien prueba que fue alertado mucho despues de cerrada la causa, por tanto no pudo haber sido investigado por Rozas."
+adjuntos:
+  - causas/pruebas/2020/10/06/screenshot-20201006-002940.e0362.png
+  - causas/pruebas/2020/10/06/screenshot-20201006-003005.e0362.png
+  - causas/pruebas/2020/10/06/dias.e0370.jpg
+relacionados:
+  - causas/pruebas/2020/03/11/20200311_202056.md
 ---
 
 # Faltantes de HC : MPF00462972
@@ -25,6 +31,9 @@ Revise los 7 archivos de nombre historia clinica parte 7 (1).pdf, creo
 que esos eran todos.
 
 Gracias.
+
+- adjunto `Screenshot_20201006_002940.png`: `causas/pruebas/2020/10/06/screenshot-20201006-002940.e0362.png`
+- adjunto `Screenshot_20201006_003005.png`: `causas/pruebas/2020/10/06/screenshot-20201006-003005.e0362.png`
 
 ## e0370 · 2020-10-07 23:36 · nhk.web@gmail.com → fiscaliapcyf20@fiscalias.gob.ar, juzcyf21@jusbaires.gob.ar
 
@@ -62,3 +71,7 @@ aca por demandar justicia (y que investiguen) me regalaron un carnet
 de transtornado paranoide.
 
 Saludos
+
+- adjunto `dias.jpg`: `causas/pruebas/2020/10/06/dias.e0370.jpg`
+- adjunto `kuchasky_sentada_20200311_202101.jpg`: (copia de foto original en [20200311_202056.md](../../../2020/03/11/20200311_202056.md))
+
