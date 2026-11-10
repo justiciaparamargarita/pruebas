@@ -34,7 +34,7 @@ Argerich 545 · Tel: 4611-1805 / 4637-2423
 - F. de Nac: 12/05/1943
 - Estado Civil: Casada
 - Domicilio: Mozart 610, Localidad: Cap Fed
-- Teléfono Fijo: [numero19] · Celular: 1524020854 (Nicolás)
+- Teléfono Fijo: 4682-7559 · Celular: 1524020854 (Nicolás)
 - Primera Entrevista: 26-06
 - Profesional Admisor: Dr. Bo[dudoso: rani]
 - Autorizado por: Por internet
@@ -82,8 +82,8 @@ Evolución Psiquiátrica (Reingreso)
 - Estado actual / semiología psiquiátrica:
   "Asiste c/ el hijo. Refiere que el hijo: 'Causa médica': ddo [ilegible] atendida por 1 año. No hay constancia de atención hoy. Vigil, desconectada, hipoactiva, posibles alterac. visuales - auditivas (dicho por el hijo). dt [dudoso: sensorio]."
 - Plan de medicación:
-  Clonazepam: --- 1 (se agrega).
-  Quetiapina 25: --- 1.
+  Bromazepam 6mg: --- 1 (se agrega). [vh]
+  Quetiapina 25mg: --- 1. [vh]
   A domicilio.
 - Firma y sello del profesional.
 
