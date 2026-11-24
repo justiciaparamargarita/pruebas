@@ -6,7 +6,7 @@ de: "jusbairesabierto@jusbaires.gob.ar"
 para: "nhk.web@gmail.com"
 cc: "jusbairesabierto@jusbaires.gob.ar"
 asunto: "RE: Pedido de Acceso a la Información #20261119-9460"
-adjuntos: "image.png"
+imagenes_eliminadas: "image.png (37 KB, 472x118)"
 hilo: "e1690"
 origen_email: "fuentes/emails/jusbaires.gob.ar/2026-11/pedido-de-acceso-a-la-informacion-202611.e1690.eml"
 sha256: "570a973280a709f57ff528053b174d7d7e88bfa3074050ae1142d365f6dcf786"
@@ -28,5 +28,3 @@ Quedamos a disposición ante cualquier otra consulta.
 Saludos cordiales,
 
 [cid:e42cc994-3587-4335-93d8-0f7b0bfe0636]
-
-- adjunto `image.png`: `causas/pruebas/2026/11/24/image.e1690.png`
