@@ -9,6 +9,8 @@ intenta_probar: "1. Mi mama ya tomaba Lexotanil (Bromazepam) desde hace como 20 
 comentario: "Historia Clinica que nunca solicito ni el Hospital ni nadie, pero contiene indicacion para el Lexotanil pero igualmente era algo histórico porque según decian en la farmacia ya no se solía utilizar esta droga"
 sha256: "aa04f44f141071a2f8e66c17d581ddcc5b52cc2477debb28fee678537b04711d"
 revision_ia: "gemini-3.8-flash-low (documento)"
+firma_digital: "no"
+fecha_creacion_pdf: "no"
 ---
 
 # HCSiquiatria.pdf

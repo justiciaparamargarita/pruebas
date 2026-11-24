@@ -8,6 +8,7 @@ fecha_creacion_pdf: "2019-10-16T14:58:27-03"
 origen_email: "fuentes/emails/yahoo.com.ar/2019-10/resultado-l248835-kuchasky-margarita.e0905.eml"
 comentario: "Resultados del RIN de Octubre de 2019 y otros valores"
 intenta_probar: "Valores del RIN al 16 de octubre de 2019"
+firma_digital: "no"
 ---
 
 Resultados del Protocolo Nro.: L248835

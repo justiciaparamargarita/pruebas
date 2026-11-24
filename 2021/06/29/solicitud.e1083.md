@@ -5,6 +5,7 @@ fecha_creacion_pdf: "2021-06-28T20:43:41-03"
 origen_email: "fuentes/emails/aaip.gob.ar/2021-06/datos-incompletos-kuchasky-margarita-dni.e1083.eml"
 comentario: "Formulario de acceso a la historia clínica dirigido a Consultorios Psiquiátricos y Psicológicos de Buenos Aires SRL, enviado a la AAIP el 29/06/2021."
 intenta_probar: "Que el denunciante pidió formalmente la historia clínica al prestador privado, como paso previo a la denuncia ante la AAIP."
+firma_digital: "no"
 ---
 
 Formulario para el ejercicio del Derecho de Acceso

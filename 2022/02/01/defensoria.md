@@ -8,6 +8,8 @@ sha256: "5c1cb98b73a285e791dc10ed2de97f6cd2936d4f4f7c66a8f07fe233ca2de9dc"
 revision_ia: "claude-opus-5-5-medium"
 comentario: "Original del texto presentado ante la Defensoría del Pueblo de la CABA el 1 de febrero de 2022. La recepción con firma y sello obra en recepcion-defensoria-1.jpg y la constancia de trámite en recepcion-defensoria-2.jpg"
 intenta_probar: "Mi reclamo ante el no avance de la denuncia por el faltante de fojas"
+firma_digital: "no"
+fecha_creacion_pdf: "2022-02-01T12:48:43-03"
 ---
 
 # defensoria.pdf

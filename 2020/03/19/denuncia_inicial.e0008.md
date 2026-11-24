@@ -6,6 +6,8 @@ asunto: "MPF"
 origen_email: "fuentes/emails/fiscalias.gob.ar/mpf.e0008.eml"
 comentario: "Respuesta de MPF CABA por la denuncia por la desaparicion de una biblia el dia que se fue la compañera de habitacion de mi madre. Obviamente fue un error, no se acusa a nadie. Archivo 2020/03/19/denuncia_inicial.e0008.pdf incluye la denuncia."
 intenta_probar: "Dar fecha cierta de la ultima paciente que compartio habitacion con mi madre el 18. Demostrar que yo no hablabla con los médicos, era preferible hacer una denuncia para intantar dar con el paradero de la mujer y preguntarle si se llevo la biblia que pedirle a medicos o enfermeros de la Unidad 1 si podían contactar a la mujer y preguntarle."
+firma_digital: "FELICITAS PAULA VILLALBA DIAZ Mar 18 2020 16:24:14; firma: Signature is Valid.; certificado: Certificate has Expired"
+fecha_creacion_pdf: "2020-03-18T16:24:13-03"
 ---
 
 Estimado vecino:

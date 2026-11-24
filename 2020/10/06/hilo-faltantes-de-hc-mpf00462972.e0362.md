@@ -11,6 +11,7 @@ adjuntos:
   - causas/pruebas/2020/10/06/dias.e0370.jpg
 relacionados:
   - causas/pruebas/2020/03/11/20200311_202056.md
+  - causas/pruebas/2020/03/11/20200311_202101.md
 ---
 
 # Faltantes de HC : MPF00462972
@@ -73,5 +74,5 @@ de transtornado paranoide.
 Saludos
 
 - adjunto `dias.jpg`: `causas/pruebas/2020/10/06/dias.e0370.jpg`
-- adjunto `kuchasky_sentada_20200311_202101.jpg`: (copia de foto original en [20200311_202056.md](../../../2020/03/11/20200311_202056.md))
+- adjunto `kuchasky_sentada_20200311_202101.jpg`: (foto original en [20200311_202101.md](../../../2020/03/11/20200311_202101.md))
 

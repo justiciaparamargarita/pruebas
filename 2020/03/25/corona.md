@@ -8,6 +8,8 @@ sha256: "c3cbe415f904e43a3be4c40efea3f2e6b6d59e6c54438c525695405bd89f1597"
 revision_ia: "claude-opus-5-5-medium"
 intenta_probar: "Schinocca miente al decir 'dejó de venir por haber comenzado la cuarentena decretada por el gobierno'. El sabe muy bien por qué 'dejé de ir'"
 comentario: "Tramite en el Gobierno de la Ciudad para permiso de transito por las restricciones del COVID"
+firma_digital: "no"
+fecha_creacion_pdf: "no"
 ---
 
 # corona.pdf

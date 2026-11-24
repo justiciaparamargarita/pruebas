@@ -7,6 +7,8 @@ organismo: "Dirección Nacional de Protección de Datos Personales (AAIP)"
 entidad_sancionada: "Consultorios Psiquiátricos y Psicológicos de Buenos Aires S.R.L."
 comentario: "Sancion de AAIP a organismo por entregar con demora una historia clinica"
 intenta_probar: "Defensoría encubre, mientras en Nacion una demora provoco una sancion, en CABA el faltante solamente tuvo una recomendacion: no se roben las fojas"
+firma_digital: "GESTION DOCUMENTAL ELECTRONICA - GDE Feb 14 2024 10:25:48; firma: Signature is Valid.; certificado: Certificate has Expired | GESTION DOCUMENTAL ELECTRONICA - GDE Feb 14 2024 10:25:49; firma: Signature is Valid.; certificado: Certificate has Expired"
+fecha_creacion_pdf: "2024-02-14T10:25:44-03"
 ---
 
 # Informe IF-2024-15511491-APN-DNPDP#AAIP

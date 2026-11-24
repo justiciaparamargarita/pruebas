@@ -4,6 +4,9 @@ documento: "Consejo de la Magistratura CABA, Res. Presidencia N° 774/2018"
 origen: "https://consejo.jusbaires.gob.ar/institucional/documentacion/resoluciones-centro-de-documentacion/download?id=CEE6ADAA10479D0519C038ADA9F59998"
 descargado: "2026-10-08"
 fecha_creacion_pdf: "2018-09-12 12:32:39 -03 (escaneo RICOH MP 2554)"
+firma_digital: "no"
+comentario: "Res. Presidencia N° 774/2018: incorpora al Cuerpo Móvil a la agente Ayelén Maitén Galante (legajo 2882) y la transfiere al Ministerio Público Fiscal"
+intenta_probar: "El ingreso al MPF, en septiembre de 2018, de una agente de apellido Galante"
 ---
 
 Buenos Aires, 06 de septiembre de 2018. RES. PRESIDENCIA N° 774/2018.

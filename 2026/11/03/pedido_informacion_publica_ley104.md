@@ -8,6 +8,8 @@ sha256: "0aa58c1f75d61d403ff1f94a227853d81c31ff0d82f2c01df43013851125806f"
 transcripcion: "pdftotext -layout"
 intenta_probar: "-"
 comentario: "Pedido de acceso a la información pública (Ley 104) presentado por el denunciante ante el Área de Acceso a la Información Pública del MPF de la CABA"
+firma_digital: "no"
+fecha_creacion_pdf: "2026-11-03T16:28:23-03"
 ---
 
 # Pedido de información pública (Ley 104)
