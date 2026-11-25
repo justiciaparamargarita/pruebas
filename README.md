@@ -337,6 +337,7 @@ Material del denunciante anterior a las denuncias: fotos y capturas de la intern
 - 2026-11-24 [Mail «Pedido de Acceso a la Información #20261119-9460» · yo → jusbairesabierto@jusbaires.gob.ar](2026/11/24/pedido-de-acceso-a-la-informacion-202611.e1701.md)
 - 2026-11-24 [Mail «Pedido de Acceso a la Información #20261119-9460» · ddyme@ → yo](2026/11/24/pedido-de-acceso-a-la-informacion-202611.e1702.md)
 - 2026-11-24 [Pedido ley104 mpf](2026/11/24/pedido-ley104-mpf.e1700.md)
+- 2026-11-25 [Mail «RE: Pedido de Acceso a la Información #20261119-9460» · jusbairesabierto@jusbaires.gob.ar → yo](2026/11/25/pedido-de-acceso-a-la-informacion-202611.e2310.md)
 - [nota-de-ingreso-temporal_fotos.jpg](2020/04/nota-de-ingreso-temporal_fotos.md)
 - [Instrucciones para la IA: preparar las pruebas de `pruebas/`](instrucciones-ia.md)
 - [LEY A – N° 1.845 — LEY DE PROTECCION DE DATOS PERSONALES](leyes/caba/1845.md)
