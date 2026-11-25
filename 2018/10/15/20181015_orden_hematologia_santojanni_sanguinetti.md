@@ -34,7 +34,7 @@ Sexo:
 
 Fecha: 23/10/18
 
-[sello] Dra. ELIZABETH C. SANGUINETTI · MÉDICA HEMATÓLOGA · MN: 82.07[?] · MP: 222.654
+[sello] Dra. ELIZABETH C. SANGUINETTI · MÉDICA HEMATÓLOGA · MN: 82.07[8] · MP: 222.654
 
 [firma ilegible]
 
