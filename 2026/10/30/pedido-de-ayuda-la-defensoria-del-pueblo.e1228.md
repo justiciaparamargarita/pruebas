@@ -3,16 +3,16 @@ tipo: "correo"
 fecha: "2026-10-30"
 hora: "16:09"
 de: "nhk.web@gmail.com"
-para: "legisladores caba"
+para: "juan.modarelli@legislatura.gob.ar, despachomodarelli@gmail.com"
 asunto: "Pedido de ayuda: la Defensoría del Pueblo y el MPF ante 47 días sin enfermería en la historia clínica de mi madre"
 hilo: "e1228"
 origen_email: "fuentes/emails/gmail.com/2026-10/pedido-de-ayuda-la-defensoria-del-pueblo.e1228.eml"
 sha256: "d969315e019db2697d0e70c41b9a345745870b311d9abfd166f39513b88b2d31"
 intenta_probar: "-"
-comentario: "Correo a legisladores de CABA pidiendo ayuda por los 47 días sin registros de enfermería en la historia clínica"
+comentario: "Correo al legislador Modarelli pidiendo ayuda por los 47 días sin registros de enfermería en la historia clínica"
 ---
 
-Estimado Legislador <X>:
+Estimado Legislador Juan Pablo Modarelli:
 
 Mi madre, Margarita Leonor Kuchasky, falleció el 28/04/2020 en el Hospital Piñero. Me expulsaron el 25/03/2020 [0] y nunca más la volví a ver.
 
