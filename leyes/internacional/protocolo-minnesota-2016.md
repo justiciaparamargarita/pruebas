@@ -6,6 +6,8 @@ norma: "Protocolo de Minnesota (ONU, 2016)"
 comentario: "Protocolo de Minnesota sobre la Investigación de Muertes Potencialmente Ilícitas (2016), versión revisada del Manual de la ONU de 1991; ACNUDH, Nueva York y Ginebra, 2017, HR/PUB/17/4. Estándar de referencia, no es ley. Texto extraído del PDF oficial en castellano (protocolo-minnesota-2016.pdf); los números de párrafo quedan en líneas sueltas y las notas al pie intercaladas, cotejar con el PDF antes de citar."
 fuente: "https://www.ohchr.org/sites/default/files/Documents/Publications/MinnesotaProtocol_SP.pdf"
 intenta_probar: "-"
+firma_digital: "no"
+fecha_creacion_pdf: "2018-07-23T12:27:45+02"
 ---
 
 # Protocolo de Minnesota sobre la Investigación de Muertes Potencialmente Ilícitas (2016)
