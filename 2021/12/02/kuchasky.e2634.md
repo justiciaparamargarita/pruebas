@@ -7,6 +7,7 @@ para: "cenavid@jus.gob.ar, pronalci@jus.gov.ar"
 cc: "kuchasky@gmail.com"
 asunto: "Re: Kuchasky"
 hilo: "e2633"
+responde_a: "e2829"
 origen_email: "fuentes/emails/justiciaparamargarita.ar/2021-12/kuchasky.e2634.eml"
 sha256: "295a1a495023d06956daeb0875c0461f4c16571272eaf4a57562049d7febdaf9"
 intenta_probar: "Qué hizo el CENAVID con el pedido de asistencia del denunciante (diciembre de 2021)."
@@ -50,23 +51,3 @@ De paso ya lo dejo escrito para la nota ante el Ministerio.
 Otra cosa mas, si en base a lo que les cuento y ustedes como CENAVID, notan algun delito... ¿no deberian denunciarlo por ser de accion publica o algo asi? ¿Tienen obligacion de denunciar o no?
 
 Salud y bengalas (c)
-
-El 1/12/21 a las 13:25, Centro de Asistencia a las Víctimas de Delitos escribió:
-> Estimado Nicolás
-> 
-> Hemos recibido la información, de acuerdo a lo conversados, articularemos con la OFAVYT y prepararemos la información que nos ha remitido.
-> 
-> Atentos Saludos
-> 
-> 
-> CENAVID
-> 
-> 
-> 
-> -----Mensaje original-----
-> De: Nicolas H. Kosciuk [mailto:nhk@justiciaparamargarita.ar]
-> Enviado el: miércoles, 01 de diciembre de 2021 01:34 a.m.
-> Para: Centro de Asistencia a las Víctimas de Delitos
-> Asunto: Re: Kuchasky
-> 
-> Hola, nunca responden los mails?

@@ -14,12 +14,3 @@ comentario: "Reclamos repetidos del denunciante a victimaytestigos@."
 ---
 
 Hola ¿hay alguien con vida?, de la Fiscalia me pasan el contacto, ¿como hago para conseguir un poco de ayuda? Gracias.
-
-El 8/4/22 a las 14:30, Nicolas H. Kosciuk escribió:
-> Hola ¿hay alguien con vida?, de la Fiscalia me pasan el contacto, ¿como 
-> hago para conseguir un poco de ayuda? Gracias.
-> 
-> 
-> El 7/4/22 a las 13:56, Nicolas H. Kosciuk escribió:
->> Hola, de la Fiscalia me pasan el contacto, ¿como hago para conseguir un
->> poco de ayuda? Gracias.
